@@ -11,10 +11,11 @@
 
 If you find the dataset useful, please condider citing our paper:
 ```bibtex
-@article{luo2025generative,
+@inproceedings{luo2025generative,
   title={Generative Annotation for ASR Named Entity Correction},
   author={Luo, Yuanchang and Wei, Daimeng and Li, Shaojun and Shang, Hengchao and Guo, Jiaxin and Li, Zongyao and Wu, Zhanglin and Chen, Xiaoyu and Rao, Zhiqiang and Yang, Jinlong and others},
-  journal={arXiv preprint arXiv:2508.20700},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={20835--20846},
   year={2025}
 }
 ```
