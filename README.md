@@ -4,7 +4,8 @@
 [paper](https://arxiv.org/abs/2508.20700)
 
 ##TestSet
-[BuzzWord_Test](https://huggingface.co/datasets/Luo9766/BuzzWord)
+
+[BuzzWord Test](https://huggingface.co/datasets/Luo9766/BuzzWord)
 
 ## Citation
 
